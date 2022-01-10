@@ -4,5 +4,3 @@ fine
 
 ##
 are u learning git saran
-
-enna da
